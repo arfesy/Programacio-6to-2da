@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+    padding: 0 20px;
+}

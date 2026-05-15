@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: #d90429;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.5;
+}
+
+.f1 {
+    font-family: Arial;
+}
+
+.f2 {
+    font-family: Verdana;
+}
+
+.f3 {
+    font-family: "Courier New";
+}
+
+.f4 {
+    font-family: "Times New Roman";
+}

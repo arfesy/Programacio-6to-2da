@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f4f4;
+    padding: 50px;
+}
+
+.tarjeta {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid green;
+    margin: 0 auto;
+}
+
+.nombre {
+    font-family: 'Supermercado One', cursive;
+    color: green;
+    margin-bottom: 10px;
+}
+
+.dato {
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.frase {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #555;
+}
